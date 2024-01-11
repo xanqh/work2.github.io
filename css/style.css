@@ -433,6 +433,10 @@ Contact
     padding: 0;
     z-index: 10;
   }
+  #header .site-title img {
+    width: 70px;
+    height: 70px;
+  }
   #navi {
     width: 300px;
     background: #fff;
